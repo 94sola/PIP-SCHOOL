@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+
+.pipecode {
+    font-family: "Shrikhand", serif;
+    font-weight: 700;
+  }
